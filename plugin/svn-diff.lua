@@ -1,0 +1,1 @@
+-- vim.api.nvim_create_user_command("SvnDiff", require("svn-diff").snack_svn_diff, {})
